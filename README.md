@@ -1,16 +1,5 @@
-# latihan
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Cara menjalankan aplikasi ini adalah :
+1. Isikan task list yang ingin dilakukan dan klik tombol add
+2. Task list akan muncul dibagian bawah
+3. Jika ingin menandai task list yang telah selesai maka bisa klik kotak kecil disamping task list yang telah dibuat
+4. Jika ingin menghapus task list maka bisa klik simbol trash di samping kanan task list
